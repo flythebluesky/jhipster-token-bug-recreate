@@ -1,0 +1,9 @@
+/.h2.server.properties
+/banner.txt
+/com/
+/config/
+/i18n/
+/logback-test.xml
+/logback.xml
+/mails/
+/templates/
